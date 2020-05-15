@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>MOVIES</title>
+   <link rel="stylesheet" type="text/css" href="css/style.css">
+   </head>
+   <body>
+<center><h1>
+    
+        <img src="img/fast9.jpg" width="360" height="260" alt="movie picture">
+    <center>FAST 9</center>
+    </h1>
+        <p>
+            <center>
+                    F9 (alternatively known as Fast & Furious 9) is an upcoming American action film directed by Justin Lin and written by Daniel Casey.<br>
+                     A sequel to 2017's The Fate of the Furious,it will be the ninth main installment in the Fast & Furious franchise and the tenth full-length film released overall.
+
+            </center>
+        </p>
+        <center><table border=2>
+            <tr>
+                <th>
+                    <strong>
+                        PRODUCTION CREW
+
+                </strong>
+                     
+                </th>
+                <th>
+                        <strong>
+                        NAME
+    
+                    </strong>
+                         
+                    </th>
+
+            </tr>
+            <tr>
+                    <td>
+                        Directed by
+                    </td>
+                    <td>
+                        Justin Lin       
+                    </td>
+                        
+                </tr>
+                <tr>
+                        <td>
+                         Produced by
+                        </td>
+                        <td>
+                        Neal H. Moritz<br>
+                        Vin Diesel<br>
+                        Jeff Kirschenbaum<br>
+                        Joe Roth<br>
+                        Justin Lin<br>
+                        Clayton Townsend<br>
+                        Samantha Vincent<br>
+     
+                        </td>
+                            
+                    </tr>
+                    <tr>
+                            <td>
+                                Written by
+                            </td>
+                            <td>
+                                Daniel Casey
+
+                            </td>
+                                
+                        </tr>
+                        <tr>
+                                <td>
+                                        Starring
+                                </td>
+                                <td>
+                                Vin Diesel<br>
+                                John Cena<br>
+                                Michelle Rodriguez<br>
+                                Tyrese Gibson<br>
+                                Chris "Ludacris" Bridges<br>
+                                Jordana Brewster<br>
+                                Nathalie Emmanuel<br>
+                                Sung Kang<br>
+                                Helen Mirren<br>
+                                Charlize Theron
+
+                                               
+                                </td>
+                                    
+                            </tr>
+                            <tr>
+                                    <td>
+                                        Cinematography
+                                    </td>
+                                    <td>
+                                            Robert Richardson
+        
+                                    </td>
+                                        
+                                </tr>
+                                <tr>
+                                        <td>
+                                            Production company
+                                        </td>
+                                        <td>
+                                                One Race Films
+                                                          
+                                        </td>
+                                            
+                                    </tr>
+                                    <tr>
+                                            <td>
+                                                    Distributed by                                   </td>
+                                            <td>
+                                                    Universal Pictures                                                                 
+                                            </td>
+                                                
+                                        </tr>
+                                        <tr>
+                                                <td>
+                                                        Release date                   </td>
+                                                <td>
+                                                      May 22, 2020 (United States)                                                                  
+                                                </td>
+                                                    
+                                            </tr>
+                                            <tr>
+                                                    <td>
+                                                            Language                   </td>
+                                                    <td>
+                                                            English                                                                    
+                                                    </td>
+                                                        
+                                                </tr>
+     
+
+        </table>
+
+        </center>
+        
+    </h1></center>
+   </body>
+  

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>MOVIES</title>
+   <link rel="stylesheet" type="text/css" href="css/style.css">
+   </head>
+   <body>
+<center><h1>
+    
+        <img src="img/wonderwoman.jpg" width="360" height="260" alt="movie picture">
+    <center>WONDER WOMAN</center>
+    </h1>
+        <p>
+            <center>
+                    Wonder Woman 1984 (also marketed as WW84: Wonder Woman) is an upcoming American superhero film based on the DC Comics character Wonder Woman.<br>
+                    It is the sequel to 2017's Wonder Woman and the ninth installment in the DC Extended Universe (DCEU).<br>
+                    It will be the fourth live-action theatrical film featuring the title character, following Batman v Superman: Dawn of Justice (2016),<br>
+                     Wonder Woman, and Justice League (both 2017);<br>
+                      it will also be the second full-length feature film centered around the character.<br>
+                       The film follows Diana as she faces Maxwell Lord and Cheetah in 1984.
+            </center>
+        </p>
+        <center><table border=2>
+            <tr>
+                <th>
+                    <strong>
+                        PRODUCTION CREW
+
+                </strong>
+                     
+                </th>
+                <th>
+                        <strong>
+                        NAME
+    
+                    </strong>
+                         
+                    </th>
+
+            </tr>
+            <tr>
+                    <td>
+                        Directed by
+                    </td>
+                    <td>
+                        Justin Lin       
+                    </td>
+                        
+                </tr>
+                <tr>
+                        <td>
+                         Produced by
+                        </td>
+                        <td>
+                        Neal H. Moritz<br>
+                        Vin Diesel<br>
+                        Jeff Kirschenbaum<br>
+                        Joe Roth<br>
+                        Justin Lin<br>
+                        Clayton Townsend<br>
+                        Samantha Vincent<br>
+     
+                        </td>
+                            
+                    </tr>
+                    <tr>
+                            <td>
+                                Written by
+                            </td>
+                            <td>
+                                Daniel Casey
+
+                            </td>
+                                
+                        </tr>
+                        <tr>
+                                <td>
+                                        Starring
+                                </td>
+                                <td>
+                                Vin Diesel<br>
+                                John Cena<br>
+                                Michelle Rodriguez<br>
+                                Tyrese Gibson<br>
+                                Chris "Ludacris" Bridges<br>
+                                Jordana Brewster<br>
+                                Nathalie Emmanuel<br>
+                                Sung Kang<br>
+                                Helen Mirren<br>
+                                Charlize Theron
+
+                                               
+                                </td>
+                                    
+                            </tr>
+                            <tr>
+                                    <td>
+                                        Cinematography
+                                    </td>
+                                    <td>
+                                            Robert Richardson
+        
+                                    </td>
+                                        
+                                </tr>
+                                <tr>
+                                        <td>
+                                            Production company
+                                        </td>
+                                        <td>
+                                                One Race Films
+                                                          
+                                        </td>
+                                            
+                                    </tr>
+                                    <tr>
+                                            <td>
+                                                    Distributed by                                   </td>
+                                            <td>
+                                                    Universal Pictures                                                                 
+                                            </td>
+                                                
+                                        </tr>
+                                        <tr>
+                                                <td>
+                                                        Release date                   </td>
+                                                <td>
+                                                      May 22, 2020 (United States)                                                                  
+                                                </td>
+                                                    
+                                            </tr>
+                                            <tr>
+                                                    <td>
+                                                            Language                   </td>
+                                                    <td>
+                                                            English                                                                    
+                                                    </td>
+                                                        
+                                                </tr>
+     
+
+        </table>
+
+        </center>
+        
+    </h1></center>
+   </body>
+   </html>
